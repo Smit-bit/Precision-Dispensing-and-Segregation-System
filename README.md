@@ -14,12 +14,19 @@ This repository contains all necessary technical documentation, code, mechanical
 
 📁 001_LR2C1/
 ├── Code_LR2C1_326/ # Firmware (bare-metal code)
+
 ├── Photos/ # Contraption build and final setup photos
+
 ├── BoM_326_LR2C1.pdf # Bill of Materials
+
 ├── Circuit diagram.jpg # Electronics circuit wiring
+
 ├── Mechanical Drawings_LR2C1_326.pdf
+
 ├── Process Flow Chart_LR2C1_326.pdf
+
 ├── Wiring Diagram_LR2C1_326.pdf
+
 └── Working Video (not included in repo but submitted via form)
 
 yaml
